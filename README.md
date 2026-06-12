@@ -1,0 +1,1 @@
+Designed a Sales Analysis Dashboard using microsoft Excel, used pivot tables, pivot charts and slicers for data visualization. performed data cleaning and transformation for structured analysis, Analyzed Total revenue, sales andd calculated COGS. Created a dynamic and interactive reporting sheet for decision-mking
